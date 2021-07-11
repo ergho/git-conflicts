@@ -1,6 +1,6 @@
 This file will contain a couple of conflicts.
 
-So the world consists of many countries.
-We live in countries, we travel between countries, we trade between countries.
-Europe consists of many countries that are a part of a organization,
+So the world consists of many nations.
+We live in nations, we travel between nations, we trade between nations.
+Europe consists of many nations that are a part of a organization,
 the European Union.
